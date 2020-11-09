@@ -1,0 +1,127 @@
+
+@import url();
+.source_img img{
+	display: inline;
+	width: 118.75px;
+	cursor: pointer;
+}
+.carousel-item{
+	text-align: center;
+}
+.content_descrip h5{
+	color: #C4C3C3;
+    font-size: inherit;
+    margin-bottom: 20px;
+}
+.content_descrip h3{
+	color: #333;
+	font-size: 28px;
+	line-height: 1.4rem;
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+.content_descrip .money{
+	color: #c0a576;
+	font-size: 25px;
+	font-weight: 500;
+}
+.description{
+	margin-bottom: 50px;
+}
+.quantity{
+	font-size: 14px;
+    border-style: solid ;
+    border-width: 1px;
+    border-radius: 35px;
+    padding: 13px 28px 13px 28px;
+    color: #282828;
+    border-color: #d4d4d4;
+    max-width: 320px;
+    margin-bottom: 15px;
+}
+.input_quantity{
+	font-size: 18px;
+	width: 100%;
+	border: none;
+}
+.btn_addtocart button,a{
+	display: inline;
+	margin-right: 10px;
+	padding: 10px;	
+}
+.btn_addtocart a:last-child{
+	margin-right: 0;
+}
+.btn_addtocart{
+	position: relative;
+	display: inline;
+	align-items: center;
+}
+.btn_addtocart button{
+	font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    padding: 14px 34px;
+    color: #fff;
+    background-color: #c0a576;
+    border-color: #c0a576;
+ }
+ .btn_addtocart a{
+ 	color: #999;
+ 	padding: 16px;
+ 	height: 60px;
+ 	width: 60px;
+ 	border-radius: 50%;
+ 	background-color: #fbfbfb;
+ 	text-decoration: none;
+ }
+ .btn_addtocart a i{
+ 	font-size: 18px;
+ }
+ .btn_addtocart a:hover{
+ 	background: #c0a576;
+ 	color: #fff;
+ }
+ .icon_social{
+ 	position: relative;
+ 	width: 100%;
+ }
+ .nav li{
+	margin-top: 30px;
+ 	list-style: none;
+ 	margin-right: 5px;
+ 	height: 45px;
+ 	width: 45px;
+ 	background: #fff;
+ 	border-radius: 50%;
+ 	text-align: center;
+ 	padding: 11px;
+ 	transition: 0.2s;
+ 	cursor: pointer;
+}
+.nav li i{
+	color: #fff;
+}
+.nav li:nth-child(1){
+	background: #3B5998;
+}
+.nav li:nth-child(2){
+	background: #EA4335;
+}
+.nav li:nth-child(3){
+	background: #1DA1F2;
+}
+.nav li:nth-child(4){
+	background: #0077B5;
+}
+.nav li:hover{
+	margin-top: 20px;
+}
+
+
+
+/* </---------------star rate---------/> */
+
